@@ -1,0 +1,40 @@
+body{
+    background-color: #28282B;
+    color: white;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.navbar a:hover{
+    color: #288684;
+    text-decoration: underline;
+    box-shadow: 0 0 15px #288684, 0 0 30px #288684, 0 0 45px #288684;
+    color: #00ffcc;
+}
+
+#home{
+    height: 100vh;
+    align-items: center;
+}
+
+h2{
+    color:#288684;
+}
+.services-card{
+    border: 2px solid black;
+}
+
+.bg-teal{
+    background-color: #288684;
+    color: white;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+    margin:1%;
+}
+
+.bg-teal:hover {
+    box-shadow: 0 0 15px #288684, 0 0 30px #288684, 0 0 45px #288684;
+    color: #00ffcc;
+}
