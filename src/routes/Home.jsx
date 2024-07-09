@@ -17,14 +17,14 @@ const Home = () => {
                 </div>
 
                 <div className="col-6 hero-image">
-                    <img className=" img-fluid max-width: 50%;" src="h/images/home-image.jpg" alt="Hero image"/>
+                    <img className=" img-fluid max-width: 50%;" src="/images/home-image.jpg" alt="Hero image"/>
                 </div>
             </section>
 
             <section id="about" className="container">
                 <h2>About Me</h2>
                 <div className="row">
-                    <img className="col-6 img-fluid max-width: 50%;" src="h/images/about-image.jpg" alt="About me image"/>
+                    <img className="col-6 img-fluid max-width: 50%;" src="/images/about-image.jpg" alt="About me image"/>
                     <div className="col-6">
                         <p>Hello! I'm John Doe, a passionate and dedicated web developer based in Johannesburg. With a strong background in creating visually appealing and highly functional websites, I specialize in both frontend and backend development. My journey into web development started from a love for technology and a desire to bring ideas to life through code.</p>
                         <p>As a web developer, I have honed my skills in HTML5, CSS3, JavaScript, and various frontend frameworks like React. On the backend, I'm proficient in Node.js and Express.js, with experience in Firebase for database management. My toolkit also includes design tools like Figma, and I'm adept at using Git and GitHub for version control, ensuring smooth collaboration and efficient project management.</p>
